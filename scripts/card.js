@@ -51,8 +51,8 @@ function myCard() {
                 break;
             case 2:
                 image.src = "../images/2.jpg";
-                name = "The Lecture Hall"
-                bio = "The Lecture Hall is where Dr. Wilson teaches.";
+                name = "Cerberus"
+                bio = "The three-headed beast that guards the gates of hell.";
                 break;
             case 3:
                 image.src = "../images/3.jpg";
